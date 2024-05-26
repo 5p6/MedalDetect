@@ -1,0 +1,8 @@
+
+
+
+
+train: E:/dataset/medal/mine/train_1 
+val: E:/dataset/medal/mine/val
+nc: 6 #标签数量
+names: ["cr","in","pa","ps","rs","sc"]

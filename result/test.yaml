@@ -1,0 +1,30 @@
+- object:
+    box:
+      lefttop:
+        height: 162
+        width: 8
+      rightdown:
+        height: 223
+        width: 63
+    class_name: pa
+    confidence: 0.8919047713279724
+- object:
+    box:
+      lefttop:
+        height: 0
+        width: 12
+      rightdown:
+        height: 63
+        width: 54
+    class_name: pa
+    confidence: 0.8832055926322937
+- object:
+    box:
+      lefttop:
+        height: 0
+        width: 154
+      rightdown:
+        height: 141
+        width: 222
+    class_name: pa
+    confidence: 0.8553289771080017
