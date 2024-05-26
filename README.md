@@ -12,4 +12,4 @@
 ```shell
 python main.py
 ```
-其中本目录下的 `images` 为测试图像，`config` 文件夹下具有权重模型 `yolov8.m`.
+其中本目录下的 `images` 为测试图像，`config` 文件夹下具有权重模型 `yolov8m.onnx`.
